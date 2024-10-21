@@ -1,0 +1,17 @@
+# Archivos sensibles
+wp-config.php
+
+# Carpeta de subidas
+wp-content/uploads/
+
+# Archivos temporales y de caché
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backup-db/
+
+# Sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Archivos de registro
+error_log
