@@ -1,0 +1,4 @@
+name,type,regular_price,description,short_description,sku,stock_quantity,categories,images,weight
+Barra de Chocolate Orgánico 100g,simple,20,"Barra de chocolate puro, orgánico y de comercio justo.",Chocolate orgánico con 100% cacao.,CEIBO1001,100,Chocolates,http://tuurl.com/imagen1.jpg,0.1
+Bombones de Chocolate Clásico 200g,simple,35,Deliciosos bombones de chocolate clásico de alta calidad.,Bombones de chocolate con 70% cacao.,CEIBO2002,50,Bombones,http://tuurl.com/imagen2.jpg,0.2
+Barra de Chocolate con Naranja 100g,simple,22,Barra de chocolate con un toque de naranja.,Chocolate con sabor a naranja.,CEIBO1003,80,Chocolates,http://tuurl.com/imagen3.jpg,0.1
